@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @tleadmember
-- 👀 I’m interested in machine learning and cloud computing
-- 🌱 I’m currently learning the basics of software engineering as a recent graduate (May 2021) in mechanical engineering
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me: thong.q.huynh@gmail.com
